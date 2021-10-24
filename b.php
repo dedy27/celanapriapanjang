@@ -2,7 +2,7 @@
 <html>
 <head>
 <title>Belanja Online</title>
-<meta http-equiv="refresh" content="0;URL='https%3A%2F%2Fwww.lazada.co.id%2Fcelana-pendek-dan-panjang-pria%2F%3Fspm%3Da2o4j.searchlistcategory.cate_4_1.4.3d77388azp3m3f'" />
+<meta http-equiv="refresh" content="0;URL='https://c.lazada.co.id/t/c.0CpFBI?url=https%3A%2F%2Fwww.lazada.co.id%2Fjeans-pria%2F%3Fspm%3Da2o4j.searchlistcategory.cate_4_1.5.236f12d2yAeDVY'" />
 </head>
 <body>
 <!-- Histats.com  START  (aync)-->
